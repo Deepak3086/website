@@ -424,6 +424,8 @@ Contact:
 
 # OUTPUT:
 HOME PAGE:
+
+
 ![image](https://github.com/user-attachments/assets/0a3801e3-6c9d-4d71-8152-615bfd56f076)
 
 MENU:
