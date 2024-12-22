@@ -1,6 +1,6 @@
 # Ex.07 Restaurant Website
 # Date: 5/11/24
-# AIM:
+# AIM: 
 To develop a static Restaurant website to display the food items and services provided by them.
 
 # DESIGN STEPS:
